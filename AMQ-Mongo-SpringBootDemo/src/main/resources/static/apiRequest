@@ -1,0 +1,20 @@
+	
+	POST localhost:8080/api/employee
+
+		{
+		    "id": "1",
+		    "firstName": "",
+		    "middleName": "",
+		    "lastName": "",
+		    "age": 25,
+		    "department": ""
+		}
+		
+	POST localhost:8080/api/orderTransaction
+		
+		{
+		    "id": "",
+		    "from": "",
+		    "to": "",
+		    "amount": 2.4
+		}
